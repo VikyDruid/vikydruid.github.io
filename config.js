@@ -13,7 +13,7 @@ const CONFIG = {
         status: "南山绝赞加班中",
         lastUpdate: "2025.12.19",
         // 头像图片链接 (可以是本地文件路径，也可以是网络链接)
-        avatar: "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=500&q=80",
+        avatar: "pics/Viky-Delta.png",
         // 自我介绍
         intro: "我是 Viky，UI/平面设计师，深圳互联网民工，全平台玩家，赛博末日囤积癖，金属徽章爱好者。"
     },
