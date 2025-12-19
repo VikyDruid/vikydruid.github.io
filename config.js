@@ -7,23 +7,23 @@ const CONFIG = {
     // --- 1. 个人信息 ---
     profile: {
         name: "VIKY",
-        title: "数字工匠 / UI设计 / 复古未来主义",
-        subtitle: "构建逻辑与霓虹梦想交汇的界面",
+        title: "游戏UI设计 / 平面与插画 / 法师学徒",
+        subtitle: "“玩游戏的，都是朋友”",
         // 状态栏文字
-        status: "当前状态: 接受自由约稿中 (Available)",
-        lastUpdate: "2025.12.20",
+        status: "南山绝赞加班中",
+        lastUpdate: "2025.12.19",
         // 头像图片链接 (可以是本地文件路径，也可以是网络链接)
         avatar: "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=500&q=80",
         // 自我介绍
-        intro: "我是 Viky，一名游走于代码与像素之间的数字设计师。我痴迷于 80 年代的模拟美学，并致力于用现代技术重现那份温情。在这里，每一个像素都是精心计算的结果。"
+        intro: "我是 Viky，UI/平面设计师，深圳互联网民工，全平台玩家，赛博末日囤积癖，金属徽章爱好者。"
     },
 
     // --- 2. 社交链接 (跳转地址) ---
     social: {
         github: "https://github.com/yourname",
         dribbble: "https://dribbble.com/yourname",
-        linkedin: "https://linkedin.com/in/yourname",
-        email: "mailto:yourname@example.com" // mailto: 开头会自动唤起邮件客户端
+        steam: "https://steamcommunity.com/profiles/76561198315059649/",
+        email: "vikydruid@gmail.com" // mailto: 开头会自动唤起邮件客户端
     },
 
     // --- 3. 作品列表 (在这里添加或删除作品) ---
