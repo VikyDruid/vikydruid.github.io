@@ -10,8 +10,8 @@ const CONFIG = {
         title: "游戏UI设计 / 平面与插画 / 法师学徒",
         subtitle: "“玩游戏的，都是朋友”",
         // 状态栏文字
-        status: "南山绝赞加班中",
-        lastUpdate: "2025.12.19",
+        status: "真不中了",
+        lastUpdate: "2025.12.30",
         // 头像图片链接 (可以是本地文件路径，也可以是网络链接)
         avatar: "pics/Viky-Delta.png",
         // 自我介绍
@@ -50,3 +50,4 @@ const CONFIG = {
         // 复制上面的花括号块 {...}, 来添加新作品...
     ]
 };
+
